@@ -1,7 +1,3 @@
-/**
- * Created by AlnordWang on 2017/7/14.
- */
-
 import React from 'react'
 import PropTypes from 'prop-types'
 import Todo from './Todo'
